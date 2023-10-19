@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+<style>
+    h1{
+        color:crimson;
+    }
+    label:hover{
+        font-size:x-large;
+    }
+    input:hover{
+        background-color:aquamarine;
+    }
+</style>
+
+<form asp-action="Add" asp-controller="City" method="post">
+    <h1>Sehir Ekle</h1>
+    <label>Sehir</label>
+    <input type="text" name="Name" placeholder="Sehir" />
+    <input type="submit" value="Ekle" />
+</form>

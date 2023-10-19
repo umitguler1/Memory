@@ -1,0 +1,34 @@
+﻿@using Memory.Entities.Concrete.Dtos;
+@model List<CityDto>
+
+  @*  <style>
+        thead tr{
+            background-color:black;
+            color:white;
+        }
+        tbody tr:hover{
+            background-color:aquamarine;
+        }
+    </style>*@
+@*<table>
+    <thead>
+        <tr>
+            <th>Şehir</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>*@
+@await Component.InvokeAsync("CityListComponent");
+
+
+
+
+
+

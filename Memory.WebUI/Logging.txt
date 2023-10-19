@@ -1,0 +1,142 @@
+İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/4
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/4
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/4
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/3
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/3
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/3
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/4
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/4
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/4
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /City/
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/5
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/5
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/5
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /City/
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/6
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/6
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/6
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/add
+Statu Kod : 200
+İstek atilan metot : POST
+Yol : /City/Add
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/7
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/7
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/7
+Statu Kod : 200
+The instance of entity type 'City' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/detail/7
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/7
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /City/Clear/7
+Statu Kod : 200
+İstek atilan metot : GET
+Yol : /city/index
+Statu Kod : 200

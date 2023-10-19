@@ -1,0 +1,34 @@
+﻿
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+<div>
+    <h1>Liste</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody class="cityList">
+        </tbody>
+    </table>
+    <button>Listele</button>
+</div>
+
+<script>
+
+    
+    $("button").click(
+    
+        function () {
+            fetch("http://localhost:5124/api/Cities").then(response => response.json()).then(d => console.log(d)).catch(e => console.log(e))
+        }
+
+    )
+
+
+</script>
